@@ -1,30 +1,117 @@
-/*  */
-.merriweather-light {
+/*common styles*/
+.title-font-famely{
     font-family: "Merriweather", serif;
     font-weight: 300;
-    font-style: normal;
+}
+.content-font-famely{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+header,main{
+    margin-left: 140px;
+    margin-right: 140px;
 }
 /* header tag styles */
 header{
     background-image: url("../resources/Banner\ Image.png");
     width: 1320px;
     height: 600px;
+    margin-top: 50px;
+    margin-bottom: 120px;
 }
 .header-containar{
     text-align: center;
+    
 
 }
 .header-title{
     color: #FFF;
     text-align: center;
     font-size: 32px;
-    font-weight: 400;
+    padding-top: 177px;
+    margin: 0;
 }
 .header-content{
     width: 632px;
+    height: 190px;
     color: #FFF;
     text-align: center;
     font-size: 72px;
     font-weight: 900;
-    line-height: 95px;
+    line-height: 100px;
+    padding-left: 344px;
+    margin: 0;
+
 }
+/* main tag styles */
+.fast-section{
+    text-align: center;
+}
+.fast-section-h1{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 48px;
+}
+.fast-section-p{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.fast-section-h3{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+}
+.fast-section-image{
+    margin-bottom: 48px;
+}
+/*  main tag second section syles */
+section{
+    margin-bottom: 120px;
+}
+.second-section-contaiinar{
+    background-image: url("../resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+}
+.second-section-contaiinar{
+    display: flex;
+    justify-content: space-between;
+}
+.second-section-tex-contaiinar{
+    padding-top: 126px;
+    padding-left: 126px;
+}
+.second-section-title {
+    width: 642px;
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin: 0;
+}
+.second-section-content{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80)
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 24px;
+}
+.second-section-ancr{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 48px;
+    margin-left: 158px;
+    text-decoration: none;
+}
+.second-section-image{
+    padding-top: 38.11px;
+    padding-right: 138px;
+}
+
