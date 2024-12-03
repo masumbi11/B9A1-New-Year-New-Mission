@@ -90,15 +90,12 @@ section{
     color: #FFF;
     font-size: 64px;
     font-weight: 900;
-    line-height: 88px;
-    letter-spacing: 7.04px;
     margin: 0;
 }
 .second-section-content{
     width: 697px;
-    color: rgba(255, 255, 255, 0.80)
-    font-size: 18px;
-    line-height: 30px;
+    color: #fff
+    font-size:18px;
     margin-top: 24px;
 }
 .second-section-ancr{
@@ -146,5 +143,40 @@ section{
     font-weight: 700;
     border-radius: 8px;
     background: #F00;
+}
+/* four-section tag styles */
+.four-section-containar{
+    background-image: url("../resources/Ellipse\ 1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+}
+.four-section-left-colams-h3{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+}
+.four-section-left-colams-h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+.four-section-left-colams-p{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+.four-section-rigt-colams-h2{
+    color: #f00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.four-section-rigt-colams-p{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;   
 }
 
