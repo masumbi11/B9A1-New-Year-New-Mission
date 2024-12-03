@@ -1,0 +1,30 @@
+/*  */
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+/* header tag styles */
+header{
+    background-image: url("../resources/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+}
+.header-containar{
+    text-align: center;
+
+}
+.header-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+.header-content{
+    width: 632px;
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
