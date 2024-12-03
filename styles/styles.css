@@ -179,4 +179,32 @@ section{
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;   
 }
+/* fiv-section-containar styles */
+.fiv-section-containar{
+    text-align: center;
+}
+.fiv-section-h3{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0;
+}
+.fiv-section-h1{
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;
+    margin: 0;
+}
+.fiv-section-h1-span{
+    color: #070211;
+}
+.fiv-section-h5{
+    
+    width: 1068px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 100px;
+    margin-top: 28px;
+     
+}
 
