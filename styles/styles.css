@@ -306,3 +306,56 @@ section{
     padding-left: 24px;
     padding-bottom: 24px;
 }
+/* saven section stylws */
+.saven-section{
+    border-radius: 16px;
+    background:#f5dfdf;
+    width: 1320px;
+    height: 616px;
+    ;
+}
+.saven-section-containt{
+    text-align: center;
+}
+.saven-section-containt-image{
+    padding-top: 80px;
+}
+.saven-section-containt-h2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin:0;
+    padding-top: 40px;
+}
+.saven-section-containt-p{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    padding-left: 212px;
+}
+.saven-section-containt-2{
+    /* width: 648px;
+    height: 72px; */
+    text-align: center;
+    display: flex; 
+    padding-left: 336px; 
+}
+.saven-section-containt-2-input{
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    padding: 25px 267px 25px 30px;
+    border:0;
+    font-size: 18px;
+    background-color: #FFF;
+    border-radius:50px  0 0 50px;
+}
+.saven-section-containt-2-button{
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    background-color: #F00;;
+    font-weight: 600;
+    border-radius:0 50px 50px 0;
+    border:0;
+    padding: 24px 56px;
+}
